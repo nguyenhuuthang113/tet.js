@@ -1,6 +1,7 @@
 //document.write('<style type="text/css">html{padding-bottom:20px}</style><a href="https://zalo.me/0919602479" target="_blank"><img style="position:fixed;z-index:9999;top:0;left:0;" src="https://sharethuthuat.com/wp-content/uploads/2021/12/banner_left.png" _cke_saved_src="https://sharethuthuat.com/wp-content/uploads/2021/12/banner_right.png"/></a><a href="https://sharethuthuat.com" target="_blank"><img style="position:fixed;z-index:9999;top:0;right:0;" src="https://sharethuthuat.com/wp-content/uploads/2021/12/banner_right.png"/></a><div style="position:fixed;z-index:9999;bottom:-50px;left:0;width:100%;height:104px;background:url(https://sharethuthuat.com/wp-content/uploads/2021/12/nentet.png) repeat-x bottom left;"></div><a href="https://sharethuthuat.com" target="_blank"><img style="position:fixed;z-index:9999;bottom:20px;left:20px" src="https://sharethuthuat.com/wp-content/uploads/2021/12/banner_header.png"/></a>');
 
 var pictureSrc ="https://nguyenhuuthang113.github.io/tet.js/hoamai.png"; //the location of the snowflakes
+var pictureSrc ="https://nguyenhuuthang113.github.io/tet.js/pngtree-banh-chung-in-lunar-year-of-vietnamese-png-image_2893821.jpg";
 var pictureWidth = 15; //
 var pictureHeight = 15; //the height of the snowflakes
 var numFlakes = 10; //the number of snowflakes
